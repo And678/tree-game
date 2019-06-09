@@ -1,0 +1,10 @@
+[package]
+name = "chapter_three"
+version = "0.1.0"
+authors = ["Kaminskyy Andriy <kaminskyy.andriy@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6"
+termion = "1.5.2"
+rodio = "0.9.0"
