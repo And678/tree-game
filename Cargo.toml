@@ -1,6 +1,6 @@
 [package]
-name = "chapter_three"
-version = "0.1.0"
+name = "tree_game"
+version = "0.9.0"
 authors = ["Kaminskyy Andriy <kaminskyy.andriy@gmail.com>"]
 edition = "2018"
 
